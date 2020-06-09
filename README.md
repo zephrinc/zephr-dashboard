@@ -9,7 +9,7 @@ Project is based on https://preview.themeforest.net/item/flowdash-saas-admin-das
 * This branch is connected to Github pages and changes will be reflected here: https://divydovy.github.io/zephr-dashboard/
 
 ## Zephr-specific changes
-1. Sign up / sign in template is zephr-signup.html (https://divydovy.github.io/zephr-dashboard/zephr-signup.html)
+1. Sign up / sign in template is zephr-signup.html (here: https://divydovy.github.io/zephr-dashboard/zephr-signup.html)
 2. Locked replacement for a component is
 3. Full width footer/nudget is 
 4. LH menu is stripped back 
